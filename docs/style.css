@@ -1,9 +1,9 @@
 .title {
-  color: "aqua";
-  border 1px solid rgba(160 ,0 ,0 ,0.4);
+  color: aqua;
+  border: 1px solid rgba(160 ,0 ,0 ,0.4);
 }
 
 .sub-title {
-  color: "red";
+  color: red;
   background-color: lightblue;
 }
