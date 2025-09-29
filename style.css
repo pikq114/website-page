@@ -1,12 +1,12 @@
 body {
   margin: 0;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: sans-serif;
   position: relative;
   min-height: 100vh;
-  background: url("/background.png") no-repeat center center fixed;
+  background: url("/website-page/background.png") no-repeat center center fixed;
   background-size: cover;
   background-position: 5% 10%;
-  cursor: url("/cursor/cursor.cur"), auto;
+  cursor: url("/website-page/cursor/cursor.cur"), auto;
   caret-color: transparent;
 }
 
@@ -23,7 +23,7 @@ header.header {
 }
 
 .cursor-pointer {
-  cursor: url("/cursor/cursor.cur"), pointer;
+  cursor: url("/website-page/cursor/cursor.cur"), pointer;
 }
 .title {
   margin: 0;
